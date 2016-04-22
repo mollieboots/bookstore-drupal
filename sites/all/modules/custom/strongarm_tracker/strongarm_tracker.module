@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Strongarm Tracker feature.
+ */
+
+include_once 'strongarm_tracker.features.inc';
