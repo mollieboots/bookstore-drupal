@@ -1,0 +1,26 @@
+a img {
+  background-image: url(/sites/default/files/sweaver/sweaver_image_2.png);
+  background-attachment: scroll;
+  background-position: 0% 0%;
+  background-color: transparent;
+  background-repeat: no-repeat;
+}
+
+#name-and-slogan #site-slogan {
+  font-size: 18px;
+  font-family: 'Comic Sans MS',Cursive;
+  color: #41bffa;
+}
+
+a span {
+  font-size: 57px;
+  font-family: 'Comic Sans MS',Cursive;
+  text-decoration: none;
+  color: #41bffa;
+}
+
+#page #header {
+  background-color: #79368f;
+  background-image: none;
+}
+
