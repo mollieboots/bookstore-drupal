@@ -9,18 +9,89 @@ a img {
 #name-and-slogan #site-slogan {
   font-size: 18px;
   font-family: 'Comic Sans MS',Cursive;
-  color: #41bffa;
+  color: #ecdcf7;
+  line-height: 39px;
 }
 
 a span {
-  font-size: 57px;
+  font-size: 47px;
   font-family: 'Comic Sans MS',Cursive;
   text-decoration: none;
-  color: #41bffa;
+  color: #ecdcf7;
+  line-height: 100px;
 }
 
 #page #header {
   background-color: #79368f;
   background-image: none;
+}
+
+#block-views-book-reviews-block h2 {
+  font-family: 'Comic Sans MS',Cursive;
+}
+
+.region #block-views-book-reviews-block {
+  background-color: #ecdcf7;
+  font-family: 'Comic Sans MS',Cursive;
+}
+
+.region #block-search-form {
+  background-color: #ecdcf7;
+}
+
+.region #block-system-navigation {
+  background-color: #ecdcf7;
+  font-family: 'Comic Sans MS',Cursive;
+}
+
+#block-system-navigation h2 {
+  font-family: 'Comic Sans MS',Cursive;
+}
+
+.form-item .form-text {
+  font-family: 'Comic Sans MS',Cursive;
+}
+
+#main #content {
+  font-family: 'Comic Sans MS',Cursive;
+}
+
+#main-menu ul {
+  font-family: 'Comic Sans MS',Cursive;
+}
+
+.tabs ul {
+  font-family: 'Comic Sans MS',Cursive;
+}
+
+#header .section {
+  font-family: 'Comic Sans MS',Cursive;
+}
+
+#secondary-menu ul {
+  font-family: 'Comic Sans MS',Cursive;
+}
+
+body #page-wrapper {
+  color: #3b3b3b;
+  background-color: #79368f;
+}
+
+#page #footer-wrapper {
+  background-color: #79368f;
+}
+
+.views-row .views-field {
+  color: #41bffa;
+  font-family: 'Comic Sans MS',Cursive;
+}
+
+#page #main-wrapper {
+  color: #79368f;
+  font-family: 'Comic Sans MS',Cursive;
+}
+
+.section h1 {
+  color: #79368f;
 }
 
